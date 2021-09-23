@@ -22,9 +22,6 @@ It is mandatory that you manually disable the following samsung applications for
  - Game Booster (com.samsung.android.game.gametools)
  - Game Optimizing service (com.samsung.android.game.gos)
 
-But if you want you can use my "com.samsung.android.game disabler" module to do it automatically.
-
-
 If you are going to use my modifications in your projects please give me credits.
 
 In case the module leaves your device in bootloop, to remove it you must enter recovery mode and go to the following address (/ data / adb / modules /) and delete the folder "UnlimitedGamingExperienceByIsrks", after that you can restart and your device will start normally.
