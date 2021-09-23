@@ -2,6 +2,8 @@
 Hi, the objective of this module for magisk is to disable the performance restriction due to temperature when starting a game that requires too many resources, such as CoD Mobile, Genshin Impact, PUBG Mobile, etc.
 This module can drain a lot of battery in games that require a lot of performance.
 
+Specific features of this module:
+
  - Disables CPU performance limiter due to temperature.
  - Disable GPU performance limiter due to temperature.
  - Disables automatic brightness reduction due to temperature.
@@ -9,6 +11,7 @@ This module can drain a lot of battery in games that require a lot of performanc
  - Enables the use of all cores in all tasks.
  - GPU frequency always at maximum while screen is on (This feature is temporary, I will change it when I find a better way to use the GPU to the maximum in certain tasks).
 
+It is recommended that you uninstall or disable any other module that "claims to remove performance limits due to temperature" as it may not work properly with this module.
 It is mandatory that you manually disable the following samsung applications for this module to function properly.
 
  - Game Launcher (com.samsung.android.game.gamehome)
