@@ -15,6 +15,7 @@ Specific features of this module:
  - GPU frequency always at maximum while screen is on (This feature is temporary, I will change it when I find a better way to use the GPU to the maximum in certain tasks).
 
 It is recommended that you uninstall or disable any other module that "claims to remove performance limits due to temperature" as it may not work properly with this module.
+
 It is mandatory that you manually disable the following samsung applications for this module to function properly.
 
  - Game Launcher (com.samsung.android.game.gamehome)
