@@ -26,6 +26,6 @@ If you are going to use my modifications in your projects please give me credits
 
 In case the module leaves your device in bootloop, to remove it you must enter recovery mode and go to the following address (/ data / adb / modules /) and delete the folder "UnlimitedGamingExperienceByIsrks", after that you can restart and your device will start normally.
 
-I am not responsible for damage to your device,, you, third parties, and any other type of damage, use at your own risk.
+I am not responsible for damage to your device, you, third parties, and any other type of damage, use at your own risk.
 
 Sorry about my English, I used a translator to write this.
