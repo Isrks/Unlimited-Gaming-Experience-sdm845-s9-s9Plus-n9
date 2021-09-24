@@ -14,6 +14,8 @@ Specific features of this module:
  - Enables the use of all cores in all tasks.
  - GPU frequency always at maximum while screen is on (This feature is temporary, I will change it when I find a better way to use the GPU to the maximum in certain tasks).
 
+For you to notice the improvements of this module, your device must have more than 15% battery, since due to certain limitations, the device blocks high performance when the battery is very low.
+
 It is recommended that you uninstall or disable any other module that "claims to remove performance limits due to temperature" as it may not work properly with this module.
 
 I have tested my module with Game Home, Game Booster and Game Optimizing enabled, and apparently it does not have any problem with these applications, so you do not need to uninstall or disable these applications, however, keep in mind that if you use Game Plugins from samsung, some features of the app may not be available due to the use of my module.
