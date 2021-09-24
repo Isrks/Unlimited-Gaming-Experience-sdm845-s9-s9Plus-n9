@@ -16,12 +16,12 @@ Specific features of this module:
 
 It is recommended that you uninstall or disable any other module that "claims to remove performance limits due to temperature" as it may not work properly with this module.
 
-I have tested my module with Game Home, Game Booster and Game Optimizing enabled, and apparently it does not have any problem with these applications, so you do not need to uninstall or disable these applications, however, keep in mind that if you use Game Pñugins from samsung, some features of the app may not be available due to the use of my module.
+I have tested my module with Game Home, Game Booster and Game Optimizing enabled, and apparently it does not have any problem with these applications, so you do not need to uninstall or disable these applications, however, keep in mind that if you use Game Plugins from samsung, some features of the app may not be available due to the use of my module.
 
 If you are going to use my modifications in your projects please give me credits.
 
 In case the module leaves your device in bootloop, to remove it you must enter recovery mode and go to the following address (/ data / adb / modules /) and delete the folder "UnlimitedGamingExperienceByIsrks", after that you can restart and your device will start normally.
 
-I am not responsible for any damage to your device, you, third parties, and any other type of damage, use at your own risk.
+I am not responsible for damage to your device,, you, third parties, and any other type of damage, use at your own risk.
 
 Sorry about my English, I used a translator to write this.
