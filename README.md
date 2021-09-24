@@ -16,11 +16,7 @@ Specific features of this module:
 
 It is recommended that you uninstall or disable any other module that "claims to remove performance limits due to temperature" as it may not work properly with this module.
 
-It is mandatory that you manually disable the following samsung applications for this module to function properly.
-
- - Game Launcher (com.samsung.android.game.gamehome)
- - Game Booster (com.samsung.android.game.gametools)
- - Game Optimizing service (com.samsung.android.game.gos)
+I have tested my module with Game Home, Game Booster and Game Optimizing enabled, and apparently it does not have any problem with these applications, so you do not need to uninstall or disable these applications, however, keep in mind that if you use Game Pñugins from samsung, some features of the app may not be available due to the use of my module.
 
 If you are going to use my modifications in your projects please give me credits.
 
