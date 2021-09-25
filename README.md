@@ -2,7 +2,7 @@
 
 Magisk Module.
 
-This module has only been tested on Android 10 (OneUI 2.5).
+This module has only been tested on Android 10 (One UI 2.5) on the following Samsung devices with Snapdragon 845 processor: Samsung Galaxy s9, Samsung Galaxy s9+, Samsung Galaxy Note 9. If you want, you can test this module with devices from other brands with the same processor, but I do not assure you that it will work, since I do not have other devices that are not the ones I already mentioned.
 
 Hi, the objective of this module for magisk is to disable the performance restriction due to temperature when starting a game that requires too many resources, such as CoD Mobile, Genshin Impact, PUBG Mobile, etc.
 This module can drain a lot of battery in games that require a lot of performance.
